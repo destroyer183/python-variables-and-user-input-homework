@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+street = input("What street do you live on? ")
+city = input("What city do you live in? ")
+province = input("What province do you live in? ")
+postcode = input("What is your postal code? ")
+print(name + ", " + street + ", " + city + ", " + province + ", " + postcode)
